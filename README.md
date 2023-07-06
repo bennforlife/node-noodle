@@ -6,7 +6,7 @@ Quickly spin up a node instance that automatically reloads on save.
 mkdir new-project && cd new-project
 degit bennforlife/basic-node-starter
 npm install
-npm start
+npm run start
 ```
 
 Beats messing around in the browser console -> you get to keep your vim key bindings.
