@@ -4,7 +4,7 @@ Quickly spin up a node instance that automatically reloads on save.
 
 ```
 mkdir new-project && cd new-project
-degit bennforlife/basic-node-starter
+degit bennforlife/node-noodle
 npm install
 npm run start
 ```
